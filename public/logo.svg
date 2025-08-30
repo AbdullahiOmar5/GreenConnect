@@ -1,0 +1,12 @@
+<!-- filepath: /Users/AbdallaOmer/Downloads/project-2/public/logo.svg -->
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="leafGradient" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#76B947"/>
+      <stop offset="1" stop-color="#94C973"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="url(#leafGradient)"/>
+  <!-- Example leaf path from lucide-react -->
+  <path d="M16 6C16 6 24 10 24 18C24 22 20 26 16 26C12 26 8 22 8 18C8 10 16 6 16 6Z" fill="white"/>
+</svg>
