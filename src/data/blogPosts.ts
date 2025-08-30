@@ -91,7 +91,8 @@ export const blogPosts: BlogPost[] = [
       "Galleydu waa dalagga ugu muhiimsan ee Soomaaliya, waxayna bixisaa cunto iyo dhaqaale. Haddana caqabado sida abuur tayo liita, cayayaanka, iyo kaydinta oo liidata ayaa xaddidaya.",
       "Suuqyada ayaa muhiim ah. Beeraley badan ayaa ku iibsha galleyda qiime hoose dhexdhexaadiyeyaasha, iyagoo ka luminaya fursado fiican.",
       "Farsamaynta kadib goosashada—sida shiididda ama u beddelidda quudinta xoolaha—waxay kordhisaa qiimaha, abuurtaa shaqo, waxayna dhiirrigelisaa ganacsi maxalli ah.",
-      "Haddii la isku daro tiknoolajiyada, maalgashiga, iyo awood-siinta beeraleyda, galleydu waxay isu beddeli kartaa tiir dhaqaale cagaaran iyo amniga cuntada dalka."
+      "Haddii la isku daro tiknoolajiyada, maalgashiga, iyo awood-siinta beeraleyda, galleydu waxay isu beddeli kartaa tiir dhaqaale cagaaran iyo amniga cuntada dalka.",
+      "Sidoo kale, waxay ka caawin kartaa beeraleyda inay helaan suuqyo cusub oo ay ku iibin karaan dalagooda, iyagoo lasocona qiimaha uu marayo dalagoodu maalinkasta."
     ],
     category: "Maalgashi",
     date: "Febraayo 28, 2024",
@@ -111,7 +112,8 @@ export const blogPosts: BlogPost[] = [
       "Caqabadda ugu weyn ee beeraleyda Soomaaliyeed wajahan waa helitaanka talo khubaro oo joogto ah, taas oo xaddidaysa awooddooda ay ugu gudbaan beero waara.",
       "Madalaha dijitaalka ah waxay bixiyaan xal xoog leh iyagoo noqda buundooyin isku xidha beeraleyda iyo khubarada. App-yada mobilada, adeegyada SMS-ka, iyo khadadka taleefanka ayaa bixiya talo waqtigeeda ah oo la jaanqaadeysa baahida beeraleyda.",
       "Madalahan waxay fududeeyaan wadaagga aqoonta ku saabsan hababka ugu fiican ee beerista, xakamaynta cayayaanka, iyo helitaanka suuqyada, taasoo ka caawisa beeraleyda inay go’aanno sax ah qaataan.",
-      "Mustaqbalka fog, dhisidda isku xirnaanta dijitaalka ah waxay awood siisaa beeraleyda, waxayna ka qayb qaadataa beeris waara iyo hal-abuurnimo bulsho."
+      "Mustaqbalka fog, dhisidda isku xirnaanta dijitaalka ah waxay awood siisaa beeraleyda, waxayna ka qayb qaadataa beeris waara iyo hal-abuurnimo bulsho.",
+      "In la isku xiro beeraleyda, khubarada, iyo maal-gashadayaasha, ayadoo la adeegsanayo teknoolijiyada casriga ah waxay abuurayaan bulsho ka dhameystiran dhinac walba."
     ],
     category: "Beeraha",
     date: "Febraayo 28, 2024",
