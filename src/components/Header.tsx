@@ -21,10 +21,11 @@ const Header = () => {
 
   const navigationItems = [
     { name: 'About', path: '/about' },
-    { name: 'Work', path: '/work' },
+    // { name: 'Work', path: '/work' },
     { name: 'Services', path: '/impact' },
-    { name: 'Contact', path: '/contact' },
-    { name: 'Insights', path: '/insights' }
+    { name: 'Insights', path: '/insights' },
+    { name: 'Contact', path: '/contact' }
+    
   ];
 
   // Determine header background and text color
@@ -38,13 +39,26 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
-            <div className={`w-10 h-10 bg-gradient-to-br from-[#76B947] to-[#94C973] rounded-lg flex items-center justify-center transition-colors duration-300`}>
-              <Leaf className="w-6 h-6 text-white" />
-            </div>
+            {/* <div className={`w-10 h-10 bg-gradient-to-br from-[#76B947] to-[#94C973] rounded-lg flex items-center justify-center transition-colors duration-300`}>
+              <Leaf className="w-16 h-16 text-white" />
+            </div> */}
+            <img
+                src={
+                  isTransparent
+                    ? './public/logo-solid_2.png' // transparent version for home before scroll
+                    : './public/logo-transparent.png'       // solid version for scrolled or other pages
+                }
+                alt="Agri Connect Logo"
+                width="100px"
+                height="56px"
+                className="transition-all duration-300"
+              />
+
+
             <span className={`text-xl font-bold transition-colors duration-300 ${
               isTransparent ? 'text-white' : 'text-[#2F5233]'
             }`}>
-              GreenTech
+              {/* Green Connect */}
             </span>
           </Link>
           

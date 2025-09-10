@@ -26,7 +26,7 @@ const BlogPostPage = () => {
               className="inline-flex items-center gap-2 text-[#B1D8B7] hover:text-white transition-colors duration-300 mb-8"
             >
               <ArrowLeft className="w-4 h-4" />
-              Back to Insights
+              Dib U laabo
             </Link>
             
             <div className="flex items-center gap-2 mb-6">
@@ -55,7 +55,7 @@ const BlogPostPage = () => {
             
             <button className="inline-flex items-center gap-2 bg-white bg-opacity-20 hover:bg-opacity-30 text-white px-6 py-3 rounded-full font-medium transition-all duration-300">
               <Share2 className="w-4 h-4" />
-              Share Article
+              La wadaag maqaalka
             </button>
           </div>
         </div>
@@ -112,10 +112,10 @@ const BlogPostPage = () => {
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12 animate-fade-in-up">
               <h2 className="text-3xl font-bold text-[#2F5233] mb-4">
-                Related Articles
+                Maqaallada la xiriira
               </h2>
               <p className="text-gray-600">
-                Continue exploring insights in {article.category}
+                Sii wad baaritaanka aragtiyada ku saabsan {article.category}
               </p>
             </div>
             

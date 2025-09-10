@@ -31,13 +31,13 @@ export const blogPosts: BlogPost[] = [
       "Saamaynta mustaqbalka fog waxay ka sii weyn tahay wax-soosaarka oo kaliya. Bulshooyinka waxay yeelan karaan adkaysi ka dhan ah isbeddelka cimilada, waxayna yarayn karaan khilaafaadka biyaha, iyagoo ilaalinaya amniga cuntada jiilasha soo socda."
     ],
     category: "Beeraha",
-    date: "Febraayo 28, 2024",
+    date: "Febraayo 28, 2025",
     readTime: "6 daqiiqo akhris",
     image: "https://images.pexels.com/photos/30733229/pexels-photo-30733229.jpeg?auto=compress&cs=tinysrgb&w=800",
     icon: Leaf,
     featured: true,
-    author: "Dr. Amina Warsame",
-    tags: ["IoT", "Waraabin Caqli leh", "Somalia", "AgriTech", "Maaraynta Biyaha"]
+    author: "Dr. Abdiqani Hassan",
+    tags: ["IoT", "Waraabin Caqli leh", "Somalia", "GreenConnect", "Maaraynta Biyaha"]
   },
   {
     id: 2,
@@ -53,7 +53,7 @@ export const blogPosts: BlogPost[] = [
       "Xakamaynta cayayaanka dijitaalka ahi ma aha oo keliya teknoolojiyad—waxay awood siisaa beeraleyda, ilaalisaa sugnaanta cuntada, waxayna dhiirrigelisaa beeris waarta."
     ],
     category: "Beeraha",
-    date: "Febraayo 28, 2024",
+    date: "March 28, 2025",
     readTime: "5 daqiiqo akhris",
     image: "https://www.relentless-digital.com/wp-content/uploads/2023/08/Pest-Control-1.jpg?auto=compress&cs=tinysrgb&w=800",
     icon: ShieldClose,
@@ -74,13 +74,13 @@ export const blogPosts: BlogPost[] = [
       "Ugu dambeyntii, maalgashiga beeraha Soomaaliya ma aha oo keliya faa’iido dhaqaale—wuxuu taageeraa horumar waara, adkaysi ka dhan ah cimilada, iyo sugnaanta cuntada qaranka."
     ],
     category: "Maalgashi",
-    date: "Febraayo 28, 2024",
+    date: "April 28, 2025",
     readTime: "7 daqiiqo akhris",
     image: "https://images.pexels.com/photos/3184287/pexels-photo-3184287.jpeg?auto=compress&cs=tinysrgb&w=800",
     icon: TrendingUp,
     featured: false,
     author: "Layla Mohamed",
-    tags: ["Maalgashi", "Ganacsiga Beeraha", "Somalia", "Dhaqaalaha Cagaaran", "AgriTech"]
+    tags: ["Maalgashi", "Ganacsiga Beeraha", "Somalia", "Dhaqaalaha Cagaaran", "GreenConnect"]
   },
   {
     id: 4,
@@ -95,13 +95,13 @@ export const blogPosts: BlogPost[] = [
       "Sidoo kale, waxay ka caawin kartaa beeraleyda inay helaan suuqyo cusub oo ay ku iibin karaan dalagooda, iyagoo lasocona qiimaha uu marayo dalagoodu maalinkasta."
     ],
     category: "Maalgashi",
-    date: "Febraayo 28, 2024",
+    date: "May 21, 2025",
     readTime: "6 daqiiqo akhris",
     image: "https://images.pexels.com/photos/13168947/pexels-photo-13168947.jpeg?auto=compress&cs=tinysrgb&w=800",
     icon: Sprout,
     featured: false,
     author: "Yusuf Abdi",
-    tags: ["Galley", "Ganacsiga Beeraha", "Silsiladda Qiimaha", "Somalia", "AgriTech"]
+    tags: ["Galley", "Ganacsiga Beeraha", "Silsiladda Qiimaha", "Somalia", "GreenConnect"]
   },
   {
     id: 5,
@@ -116,12 +116,34 @@ export const blogPosts: BlogPost[] = [
       "In la isku xiro beeraleyda, khubarada, iyo maal-gashadayaasha, ayadoo la adeegsanayo teknoolijiyada casriga ah waxay abuurayaan bulsho ka dhameystiran dhinac walba."
     ],
     category: "Beeraha",
-    date: "Febraayo 28, 2024",
+    date: "June 25, 2025",
     readTime: "5 daqiiqo akhris",
     image: "https://img.freepik.com/premium-photo/indian-agronomist-officer-with-farmer-agriculture-field-holding-whiteboard_621325-20.jpg?auto=compress&cs=tinysrgb&w=800",
     icon: Lightbulb,
     featured: false,
     author: "Asha Nur",
-    tags: ["Madalaha Dijitaalka ah", "Taageerada Beeraleyda", "Wadaagga Aqoonta", "Somalia", "AgriTech"]
+    tags: ["Madalaha Dijitaalka ah", "Taageerada Beeraleyda", "Wadaagga Aqoonta", "Somalia", "GreenConnect"]
+  },
+  {
+    id: 6,
+    title: "Kordhinta Wax-soosaarka Beeraha: Teknoolojiyada Casriga ah ee Beeraha",
+    slug: "Kordhinta-wax-soosaarka-beeraha-teknoolojiyada-casriga-ah",
+    excerpt: "Sida teknoolojiyada casriga ah ay u beddelayso beeraha Soomaaliya, iyadoo kordhinaysa wax-soosaarka, yareynaysa khasaaraha, isla markaana dhiirrigelisa waara.",
+    content: [
+      "Teknoolojiyada casriga ah ayaa si weyn u beddeshay beeraha adduunka, Soomaaliya-na ma aha mid ka reeban isbeddelkan. Laga soo bilaabo qalabka beerista saxda ah ilaa madalaha dijitaalka ah, teknoolojiyadani waxay beeraleyda siinayaan qalab ay ku kordhiyaan wax-soosaarkooda oo ay u wanaajiyaan waara.",
+      "Qalabka beerista saxda ah sida drones-ka iyo dareemayaasha IoT ayaa bixiya xog faahfaahsan oo ku saabsan xaaladda ciidda, heerka qoyaan, iyo caafimaadka dalagga. Tani waxay u oggolaanaysaa beeraleyda inay go'aanno xog ogaal ah ka gaaraan waraabinta, bacriminta, iyo maaraynta cayayaanka, taasoo kordhisa wax-soosaarka isla markaana yareysa khasaaraha.",
+      "Madalaha dijitaalka ah waxay bixiyaan talo khubaro, saadaasha cimilada, iyo helitaanka suuqyada, taasoo ka caawisa beeraleyda inay la qabsadaan isbeddelka cimilada oo ay helaan fursado cusub oo ganacsi.",
+      "Farsamaynta kadib goosashada iyo kaydinta casriga ah ayaa yareysa khasaaraha kadib goosashada waxayna kordhisaa nolosha shelf-ka ee dalagyada, taasoo beeraleyda ka caawisa inay helaan qiimo wanaagsan oo suuqa ah.",
+      "Intaa waxaa dheer, teknoolojiyada casriga ah waxay dhiirrigelisaa beeris waara iyadoo yaraynaysa isticmaalka kheyraadka sida biyaha iyo bacriminta, isla markaana ilaalinaysa caafimaadka dhulka iyo deegaanka.",
+      "Mustaqbalka, qaadashada joogta ah ee teknoolojiyada casriga ah waxay noqon doontaa mid muhiim u ah horumarinta beeraha Soomaaliya, iyadoo abuuraysa fursado dhaqaale oo cusub, taageeraysa sugnaanta cuntada, isla markaana dhiirrigelisa waara."
+    ],
+    category: "Beeraha",
+    date: "June 10, 2025",
+    readTime: "8 daqiiqo akhris",
+    image: "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=800",
+    icon: Leaf,
+    featured: false,
+    author: "Asha Nur",
+    tags: ["Madalaha Dijitaalka ah", "Taageerada Beeraleyda", "Wadaagga Aqoonta", "Somalia", "GreenConnect"]
   }
 ];

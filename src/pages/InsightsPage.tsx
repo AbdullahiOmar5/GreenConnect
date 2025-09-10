@@ -4,7 +4,7 @@ import { Calendar, ArrowRight, Leaf, Cpu, Sprout, TrendingUp, Search } from 'luc
 import { blogPosts } from '../data/blogPosts';
 
 const InsightsPage = () => {
-  const categories = ["All", "Agriculture", "Investment"];
+  const categories = ["All", "Beeraha", "Maalgashi"];
   const [selectedCategory, setSelectedCategory] = React.useState("All");
   const [searchTerm, setSearchTerm] = React.useState("");
 
@@ -104,7 +104,7 @@ const InsightsPage = () => {
                         to={`/insights/${featuredArticle.slug}`}
                         className="group flex items-center gap-2 text-[#76B947] font-semibold hover:text-[#2F5233] transition-colors duration-300"
                       >
-                        Read More
+                        Sii Akhri
                         <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
                       </Link>
                     </div>
@@ -156,7 +156,7 @@ const InsightsPage = () => {
                       to={`/insights/${article.slug}`}
                       className="group flex items-center gap-1 text-[#76B947] font-semibold hover:text-[#2F5233] transition-colors duration-300 text-sm"
                     >
-                      Read
+                      Sii Akri
                       <ArrowRight className="w-3 h-3 group-hover:translate-x-1 transition-transform duration-300" />
                     </Link>
                   </div>
@@ -171,8 +171,8 @@ const InsightsPage = () => {
               <div className="text-gray-400 mb-4">
                 <Search className="w-16 h-16 mx-auto mb-4" />
               </div>
-              <h3 className="text-xl font-semibold text-gray-600 mb-2">No articles found</h3>
-              <p className="text-gray-500">Try adjusting your search or filter criteria</p>
+              <h3 className="text-xl font-semibold text-gray-600 mb-2">Wax Maqaallo ah lama hayo weli</h3>
+              <p className="text-gray-500">Isku day inaad wax ka beddesho ereyga.</p>
             </div>
           )}
         </div>

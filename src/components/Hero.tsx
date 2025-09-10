@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-90 leading-relaxed">
-            Waxaan taageernaa wada shaqeynta beeraleyda, khubarada, iyo maalgashadayaasha si loo abuuro horumar, shaqo, iyo nolol wanaagsan.
+            Waxaan fududaynaa wada shaqeynta beeraleyda, khubarada, iyo maalgashadayaasha si loo abuuro horumar, shaqo, iyo nolol wanaagsan.
          </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -32,12 +32,12 @@ const Hero = () => {
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" />
             </Link>
             
-            <button className="group flex items-center gap-3 text-white hover:text-[#B1D8B7] transition-colors duration-300">
+            {/* <button className="group flex items-center gap-3 text-white hover:text-[#B1D8B7] transition-colors duration-300">
               <div className="w-12 h-12 bg-white bg-opacity-20 rounded-full flex items-center justify-center group-hover:bg-opacity-30 transition-all duration-300">
                 <Play className="w-5 h-5 ml-1" />
               </div>
               <span className="font-medium">Watch Our Story</span>
-            </button>
+            </button> */}
           </div>
         </div>
       </div>
