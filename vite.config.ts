@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/green-connect/', // important for GitHub Pages
+  base: '/AgriConnect/', // important for GitHub Pages
 })

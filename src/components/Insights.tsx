@@ -33,12 +33,12 @@ const Insights = () => {
         "https://images.pexels.com/photos/30733229/pexels-photo-30733229.jpeg?auto=compress&cs=tinysrgb&w=800",
       icon: Leaf,
       featured: true,
-      author: "Dr. Abdiqani Hassan",
+      author: "Abdiqani Hassan",
       tags: [
         "IoT",
         "Waraabin Caqli leh",
         "Somalia",
-        "GreenConnect",
+        "AgriConnect",
         "Maaraynta Biyaha",
       ],
     },
@@ -100,7 +100,7 @@ const Insights = () => {
         "Ganacsiga Beeraha",
         "Somalia",
         "Dhaqaalaha Cagaaran",
-        "GreenConnect",
+        "AgriConnect",
       ],
     },
     {
@@ -131,7 +131,7 @@ const Insights = () => {
         "Taageerada Beeraleyda",
         "Wadaagga Aqoonta",
         "Somalia",
-        "GreenConnect",
+        "AgriConnect",
       ],
     },
     {
@@ -160,7 +160,7 @@ const Insights = () => {
         "Ganacsiga Beeraha",
         "Silsiladda Qiimaha",
         "Somalia",
-        "GreenConnect",
+        "AgriConnect",
       ],
     },
     {
@@ -190,7 +190,7 @@ const Insights = () => {
         "Taageerada Beeraleyda",
         "Wadaagga Aqoonta",
         "Somalia",
-        "GreenConnect",
+        "AgriConnect",
       ],
     },
   ];

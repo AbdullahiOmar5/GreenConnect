@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import WhatsAppFloat from './components/WhatsAppFloat';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
+import ProductsPage from './pages/ProductsPage';
 import WorkPage from './pages/WorkPage';
 import ImpactPage from './pages/ImpactPage';
 import ContactPage from './pages/ContactPage';
@@ -20,6 +21,7 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutPage />} />
+          <Route path="/products" element={<ProductsPage />} />
           <Route path="/work" element={<WorkPage />} />
           <Route path="/impact" element={<ImpactPage />} />
           <Route path="/contact" element={<ContactPage />} />

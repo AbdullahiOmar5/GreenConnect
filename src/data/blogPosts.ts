@@ -36,8 +36,8 @@ export const blogPosts: BlogPost[] = [
     image: "https://images.pexels.com/photos/30733229/pexels-photo-30733229.jpeg?auto=compress&cs=tinysrgb&w=800",
     icon: Leaf,
     featured: true,
-    author: "Dr. Abdiqani Hassan",
-    tags: ["IoT", "Waraabin Caqli leh", "Somalia", "GreenConnect", "Maaraynta Biyaha"]
+    author: "Abdiqani Hassan",
+    tags: ["IoT", "Waraabin Caqli leh", "Somalia", "AgriConnect", "Maaraynta Biyaha"]
   },
   {
     id: 2,
@@ -80,7 +80,7 @@ export const blogPosts: BlogPost[] = [
     icon: TrendingUp,
     featured: false,
     author: "Layla Mohamed",
-    tags: ["Maalgashi", "Ganacsiga Beeraha", "Somalia", "Dhaqaalaha Cagaaran", "GreenConnect"]
+    tags: ["Maalgashi", "Ganacsiga Beeraha", "Somalia", "Dhaqaalaha Cagaaran", "AgriConnect"]
   },
   {
     id: 4,
@@ -101,7 +101,7 @@ export const blogPosts: BlogPost[] = [
     icon: Sprout,
     featured: false,
     author: "Yusuf Abdi",
-    tags: ["Galley", "Ganacsiga Beeraha", "Silsiladda Qiimaha", "Somalia", "GreenConnect"]
+    tags: ["Galley", "Ganacsiga Beeraha", "Silsiladda Qiimaha", "Somalia", "AgriConnect"]
   },
   {
     id: 5,
@@ -122,7 +122,7 @@ export const blogPosts: BlogPost[] = [
     icon: Lightbulb,
     featured: false,
     author: "Asha Nur",
-    tags: ["Madalaha Dijitaalka ah", "Taageerada Beeraleyda", "Wadaagga Aqoonta", "Somalia", "GreenConnect"]
+    tags: ["Madalaha Dijitaalka ah", "Taageerada Beeraleyda", "Wadaagga Aqoonta", "Somalia", "AgriConnect"]
   },
   {
     id: 6,
@@ -144,6 +144,6 @@ export const blogPosts: BlogPost[] = [
     icon: Leaf,
     featured: false,
     author: "Asha Nur",
-    tags: ["Madalaha Dijitaalka ah", "Taageerada Beeraleyda", "Wadaagga Aqoonta", "Somalia", "GreenConnect"]
+    tags: ["Madalaha Dijitaalka ah", "Taageerada Beeraleyda", "Wadaagga Aqoonta", "Somalia", "AgriConnect"]
   }
 ];

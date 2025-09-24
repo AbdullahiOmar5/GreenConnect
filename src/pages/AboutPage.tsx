@@ -108,7 +108,7 @@ const AboutPage = () => {
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-[#2F5233] to-[#76B947] py-20">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white animate-fade-in-up">
-          <h2 className="text-4xl font-bold mb-6">GreenConnect</h2>
+          <h2 className="text-4xl font-bold mb-6">AgriConnect</h2>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto leading-relaxed opacity-90">
             Isku xidhka beeraha iyo tignoolajiyada casriga ah si loo abuuro
             xalal waara oo beeraleyda ah
@@ -126,7 +126,7 @@ const AboutPage = () => {
               </h2>
               <div className="space-y-6 text-lg text-[#2F5233] leading-relaxed">
                 <p>
-                  waxaa la aasaasay 2025, GreenConnect waxa ay kasoo farcantay
+                  AgriConnect waxaa la aasaasay 2025, waxay kasoo farcantay
                   aragti fudud balse awood leh: in la balaariyo ama la xoojiyo
                   helitaanka tignoolajiyada iyo khibradda beeraha gudaha somalia
                   iyo meelaha ka baxsan. Waxaan garwaaqsanay in bulshooyinka
@@ -180,7 +180,7 @@ const AboutPage = () => {
               Hammigeenna
             </h3>
             <p className="text-lg text-[#2F5233] leading-relaxed mb-6">
-              GreenConnect waxay xallinaysaa caqabadaha beeraleyda Soomaaliyeed
+              AgriConnect waxay xallinaysaa caqabadaha beeraleyda Soomaaliyeed
               iyada oo la adeegsanayo tiknoolajiyad la heli karo, la-talin
               khubaro, iyo isku-xir wax-ku-ool ah oo u dhexeeya beeraleyda,
               maalgeliyeyaasha, iyo khubarada.
@@ -194,7 +194,7 @@ const AboutPage = () => {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16 animate-fade-in-up">
             <h2 className="text-4xl md:text-5xl font-bold text-[#2F5233] mb-6">
-              La kulan Kooxdeena GreenConnect
+              La kulan Kooxdeena AgriConnect
             </h2>
           </div>
 

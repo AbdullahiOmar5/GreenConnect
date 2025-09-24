@@ -112,7 +112,7 @@ const Footer = () => {
               <div className="w-12 h-12 bg-white bg-opacity-20 rounded-lg flex items-center justify-center">
                 <Leaf className="w-7 h-7 text-white" />
               </div>
-              <span className="text-2xl font-bold">GreenConnect</span>
+              <span className="text-2xl font-bold">AgriConnect</span>
             </div>
             <p className="text-lg opacity-90 leading-relaxed mb-6">
               Kobcinta bulshadeenna iyada oo loo marayo tiknoolajiyada iyo
@@ -237,7 +237,7 @@ const Footer = () => {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2 text-sm opacity-90">
-              <span>© {currentYear} GreenConnect. Lala sameeyay</span>
+              <span>© {currentYear} AgriConnect. Lala sameeyay</span>
               <Heart className="w-4 h-4 text-red-400 fill-current" />
               <span>Bulshadeena oo dhan.</span>
             </div>

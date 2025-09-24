@@ -53,28 +53,28 @@ const Impact = () => {
 
 const experts = [
   {
-    name: "Dr. Abdiqani Hassan",
+    name: "Abdiqani Hassan",
     role: "Khabiir Teknoolojiyada Beeraha",
     expertise: "AI & Beeraleyda Saxda ah",
-    text: "Waxaan leeyahay in ka badan 15 sano oo khibrad ah oo ku saabsan teknoolojiyada beeraha. Waxaan beeraleyda ka caawiyaa hirgelinta xalal casri ah oo kor u qaada wax-soosaarka isla markaana yareeya saameynta deegaanka.",
+    text: "Waxaan leeyahay in ka badan 3 sano oo khibrad ah oo ku saabsan teknoolojiyada beeraha. Waxaan beeraleyda ka caawiyaa hirgelinta xalal casri ah oo kor u qaada wax-soosaarka isla markaana yareeya saameynta deegaanka.",
     image: "./public/abdiqani.png?auto=compress&cs=tinysrgb&w=400",
-    credentials: "PhD Injineernimada Beeraha, SNU, 15+ sano oo khibrad ah"
+    credentials: "PhD Injineernimada Beeraha, SNU, 3+ sano oo khibrad ah"
   },
   {
-    name: "Dr. Shuayb Abdirashiid",
+    name: "Shuayb Abdirashiid",
     role: "La-taliye Maalgashi",
     expertise: "Maalgashiga Beeraha & Maaliyadda",
     text: "Waxaan ku takhasusay isku xirka maalgeliyeyaasha iyo fursadaha faa’iidada leh ee beeraleyda. Khibradaydu waxay daboolaysaa maalgashiyada beeraleyda yaryar ilaa mashaariicda waaweyn ee ganacsiga beeraha.",
     image: "./public/shuayb.png?auto=compress&cs=tinysrgb&w=800",
-    credentials: "MBA Maaliyadda, 12+ sano oo khibrad ah"
+    credentials: "MBA Maaliyadda, 2+ sano oo khibrad ah"
   },
   {
-    name: "Dr. Fatima Abdullahi",
+    name: "Fatima Abdullahi",
     role: "La-taliye Beeraleyda Waara",
     expertise: "Beeraleyda Dabiiciga ah & Waarta",
     text: "Waxaan beeraleyda ku hago sidii ay ugu gudbi lahaayeen hab-beereed waara oo dabiici ah. Diiraddaydu waa dhisidda nidaamyo beereed adkaysi leh oo faa’iido u leh beeraleyda iyo deegaanka labadaba.",
     image: "./public/faadumo.png?auto=compress&cs=tinysrgb&w=400",
-    credentials: "PhD Beeraha Waara, 10+ sano oo la-talin ah"
+    credentials: " Beeraha Waara, 2+ sano oo la-talin ah"
   }
 ];
 
